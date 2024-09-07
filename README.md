@@ -1,7 +1,7 @@
 # Composite-Region-Center-For-Physicaly-Disabilities-Management-Center
 
                                                             #INTRODUCTION
-Each and every Organization having records which has to maintain for long period 
+        Each and every Organization having records which has to maintain for long period 
 of time such as patient’s details, service provider, consultations, resource allocation, 
 patient schedule appoint, visit registration, workers details etc.
 Hospital Management System is designed for multispecialty hospitals, to cover a 
