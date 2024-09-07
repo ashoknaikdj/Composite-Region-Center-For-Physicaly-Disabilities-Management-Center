@@ -1,6 +1,6 @@
 # Composite-Region-Center-For-Physicaly-Disabilities-Management-Center
 
-                                    #INTRODUCTION
+                                                    #INTRODUCTION
 Each and every Organization having records which has to maintain for long period 
 of time such as patient’s details, service provider, consultations, resource allocation, 
 patient schedule appoint, visit registration, workers details etc.
